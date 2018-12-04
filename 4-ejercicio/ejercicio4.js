@@ -8,4 +8,3 @@ fs.writeFile('./archivo1.txt', 'línea 1\nLínea 2', error => {
 });
 
 console.log('última línea del programa');
-
