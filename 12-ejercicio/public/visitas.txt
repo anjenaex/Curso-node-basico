@@ -1,0 +1,4 @@
+nombre:A<br>
+               comentarios:<hr>nombre:Jorge<br>
+               comentarios:gsdfg<hr>nombre:Jorge<br>
+               comentarios:gsdfg<hr>
