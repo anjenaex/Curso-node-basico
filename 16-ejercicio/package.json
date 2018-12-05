@@ -1,0 +1,11 @@
+{
+  "name": "16-ejercicio",
+  "version": "1.0.0",
+  "description": "ejercicio16 sobre conexion de bases de datos",
+  "main": "ejercicio16.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonio Jesús Navarro Expósito",
+  "license": "ISC"
+}
